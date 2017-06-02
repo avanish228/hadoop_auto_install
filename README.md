@@ -1,0 +1,1 @@
+# hadoop_auto_install
